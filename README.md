@@ -4,7 +4,7 @@
 
 <!-- About -->
 <p>
-My way of life is built on disciplined growth, self-learning, and giving 100% to everything I take on. I believe in learning by doing, moving with clarity, and delivering with intent. Every step I’ve taken—from engineering to robotics, data, and strategy—has been guided by purpose.
+My way of life is built on disciplined growth, self-learning, and giving 100% to everything I take on. I believe in learning by doing, moving with clarity, and delivering with intent. Every step I’ve taken from engineering to robotics, data, and strategy has been guided by purpose.
 </p>
 
 <!-- Quick Facts -->
