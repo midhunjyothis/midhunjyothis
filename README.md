@@ -52,6 +52,17 @@ My way of life is built on disciplined growth, self-learning, and giving 100% to
   </tr>
 </table>
 
+<!-- 🤖 Generative AI & LLMs -->
+<h4>Generative AI & LLMs</h4>
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai" width="28" height="28" alt="ChatGPT" /><br/>ChatGPT</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/claude.svg" width="28" height="28" alt="Claude" /><br/>Claude</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/database.svg" width="28" height="28" alt="RAG" /><br/>RAG</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/npm/lucide-static@latest/icons/wand-2.svg" width="28" height="28" alt="Prompt Engineering" /><br/>Prompt&nbsp;Engineering</td>
+  </tr>
+</table>
+
 <!-- 🌐 Web & App Development -->
 <h4>Web & App Development</h4>
 <table>
@@ -95,7 +106,7 @@ My way of life is built on disciplined growth, self-learning, and giving 100% to
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="28" height="28"><br/>Figma</td>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="28" height="28"><br/>Photoshop</td>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="28" height="28"><br/>Illustrator</td>
-    <td align="center"><img src="https://img.shields.io/badge/Blender-000000?logo=blender&logoColor=white&style=for-the-badge" height="20"><br/>Blender</td>
+<td align="center"><img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" height="20"><br/>Blender</td>
   </tr>
 </table>
 
@@ -111,11 +122,11 @@ My way of life is built on disciplined growth, self-learning, and giving 100% to
 <!-- 🧱 CAD & CAE -->
 <h4>CAD &amp; CAE</h4>
 <table>
-  <tr>
-    <td align="center"><img src="https://img.shields.io/badge/SolidWorks-000000?logo=dassaultsystemes&logoColor=white&style=for-the-badge" height="20"><br/>SolidWorks</td>
-    <td align="center"><img src="https://img.shields.io/badge/AutoCAD-000000?logo=autodesk&logoColor=white&style=for-the-badge" height="20"><br/>AutoCAD</td>
-    <td align="center"><img src="https://img.shields.io/badge/Revit-000000?logo=autodesk&logoColor=white&style=for-the-badge" height="20"><br/>Revit</td>
-    <td align="center"><img src="https://img.shields.io/badge/ANSYS-000000?logo=ansys&logoColor=white&style=for-the-badge" height="20"><br/>ANSYS</td>
-    <td align="center"><img src="https://img.shields.io/badge/CATIA-000000?logo=dassaultsystemes&logoColor=white&style=for-the-badge" height="20"><br/>CATIA</td>
-  </tr>
+<tr>
+  <td align="center"><img src="https://img.shields.io/badge/SolidWorks-EE0000?logo=solidworks&logoColor=white&style=for-the-badge" height="20"><br/>SolidWorks</td>
+  <td align="center"><img src="https://img.shields.io/badge/AutoCAD-E51050?logo=autocad&logoColor=white&style=for-the-badge" height="20"><br/>AutoCAD</td>
+  <td align="center"><img src="https://img.shields.io/badge/Revit-0696D7?logo=autodesk&logoColor=white&style=for-the-badge" height="20"><br/>Revit</td>
+  <td align="center"><img src="https://img.shields.io/badge/ANSYS-FFB71B?logo=ansys&logoColor=111111&style=for-the-badge" height="20"><br/>ANSYS</td>
+  <td align="center"><img src="https://img.shields.io/badge/CATIA-005386?logo=dassaultsystemes&logoColor=white&style=for-the-badge" height="20"><br/>CATIA</td>
+</tr>
 </table>
