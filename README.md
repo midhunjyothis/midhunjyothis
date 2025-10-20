@@ -27,10 +27,6 @@ My way of life is built on disciplined growth, self-learning, and giving 100% to
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="X" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.medium.com/midhunjyothis" target="_blank" rel="noreferrer" title="Medium">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://discord.com/users/midhunjyothis" target="_blank" rel="noreferrer" title="Discord">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
   </a>
