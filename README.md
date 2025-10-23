@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="left">Hi 👋 I'm Midhun Jyothis</h1>
-<p><strong>Business Strategy Specialist | Data Analyst | Business Intelligence | Robotics | Artificial Intelligence | Machine Learning </strong></p>
+<p><strong>Business Strategy Specialist | Data Analyst | Business Intelligence | Artificial Intelligence | Machine Learning | Robotics </strong></p>
 
 <!-- About -->
 <p>
