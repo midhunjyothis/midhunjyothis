@@ -1,5 +1,9 @@
 <!-- Header -->
 <h1 align="left">Hi 👋 I'm Midhun Jyothis</h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Business+Strategy+Specialist;Data+Analyst;Business+Intelligence;Artificial+Intelligence;Machine+Learning;Robotics&center=true&width=500&height=50"></a>
+</p>
 <p><strong>Business Strategy Specialist | Data Analyst | Business Intelligence | Artificial Intelligence | Machine Learning | Robotics </strong></p>
 
 <!-- About -->
