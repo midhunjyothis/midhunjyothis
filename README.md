@@ -13,7 +13,7 @@ My way of life is built on disciplined growth, self-learning, and giving 100% to
 
 <!-- Quick Facts -->
 <ul>
-  <li>🌍 Based in Iowa, USA</li>
+ <li>🌍 Based in Virginia Beach, USA</li>
   <li>✉️ <span>jyothismidhun AT gmail DOT com</span></li>
   <li>🧠 Currently learning: Agentic AI</li>
   <li>👥 Open to collaborate on AI/ML Projects containing Business Intelligence, Data Automation & Strategy Automation</li>
@@ -120,6 +120,7 @@ My way of life is built on disciplined growth, self-learning, and giving 100% to
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="28" height="28"><br/>Arduino</td>
     <td align="center"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="28" height="28"><br/>Raspberry&nbsp;Pi</td>
+    <td align="center"><img src="https://img.shields.io/badge/Altium-A5CC33?logo=altiumdesigner&logoColor=white&style=for-the-badge" height="20"><br/>Altium</td>
   </tr>
 </table>
 
